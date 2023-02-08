@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **fast AI and C++**
 
-- 📝 I regularly write articles on [cool-ai.tech](cool-ai.tech)
+- 📝 I regularly write articles on [cool-ai.tech](https://cool-ai.tech/)
 
 - 📫 How to reach me **sugutmanu@gmail.com**
 
