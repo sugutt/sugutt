@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sugutt_" target="blank"><img src="https://img.shields.io/twitter/follow/sugutt_?logo=twitter&style=for-the-badge" alt="sugutt_" /></a> </p>
 
-- 🌱 I’m currently learning **fast AI and C++**
+- 🌱 I’m currently learning **NLP and Rust**
 
 - 📝 I regularly write articles on [cool-ai.tech](https://cool-ai.tech/)
 
