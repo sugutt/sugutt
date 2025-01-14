@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sugutt_" target="blank"><img src="https://img.shields.io/twitter/follow/sugutt_?logo=twitter&style=for-the-badge" alt="sugutt_" /></a> </p>
 
-- 🌱 I’m currently learning **Math and Pytorch**
+- 🌱 I’m currently learning **Math, Systems Programming and Pytorch**
 
 - 📝 I regularly write articles on [My Website](https://sugutt.me/)
 
